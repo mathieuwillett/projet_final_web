@@ -170,6 +170,17 @@ Insérez ici 3-5 images d'inspiration (ou liens):
 - [Image 4: Typographie inspirante]
 - [Image 5: Animations de référence]
 
+###  Ambiance générale
+![Ambiance générale](https://github.com/user-attachments/assets/2def219d-d842-4f65-bfb6-371325d14264)
+
+---
+
+### Style visuel des personnages
+
+| IA | Pixel Art | IA + Pixel Art |
+|----|-----------|----------------|
+| ![IA](https://github.com/user-attachments/assets/35b5d0ed-7543-4047-9124-ad58a1dd1438) | ![Pixel Art](https://github.com/user-attachments/assets/e744e965-ce7e-455c-b257-a827d4f4dbb2) | ![Fusion](https://github.com/user-attachments/assets/f9f674b1-ccc8-4757-860e-41f18a17910b) |
+  
 ### 3.2 Palette de couleurs
 
 *Couleurs par ambiance/chapitre:*
