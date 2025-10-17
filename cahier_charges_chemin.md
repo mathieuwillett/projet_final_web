@@ -123,7 +123,7 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 
 | Nom | Rôle | Description | Apparaît dans |
 |-----|------|-------------|---------------|
-| [Ahmed] | Protagoniste | Scientifique brillante mais impulsive | Tous les chapitres |
+| [Ahmed] | Protagoniste | Scientifique brillante mais impulsif | Tous les chapitres |
 | [Justin] | Mentor | Professeur sage et prudent | Chapitres 1, 2, 5 |
 | [Mathieu] | Antagoniste | Intelligence artificielle de la machine | Chapitres 3+, certaines fins |
 | | | | |
