@@ -46,10 +46,9 @@ Décrivez en 2-3 paragraphes le concept de votre histoire interactive:
 
 - [x] Créer une expérience narrative immersive et émotionnelle
 - [x] Développer un système de choix avec conséquences réelles
-- [ ] Implémenter un système de sauvegarde de progression
+- [x] Implémenter un système de sauvegarde de progression
 - [x] Démontrer la maîtrise de Vue.js, GSAP et Pinia
 - [x] Créer une interface accessible et responsive
-- [ ] [Autre objectif spécifique]
 
 
 
@@ -141,7 +140,6 @@ Comment les choix influencent l'histoire?
 - [ ] *Inventaire d'objets* (collecte d'items)
 - [ ] *Relations avec personnages* (affinités)
 - [x] *Flags de choix* (choix X débloque scène Y)
-- [ ] *Combinaison de plusieurs systèmes*
 
 *Exemple de tracking:*
 ```javascript
@@ -521,7 +519,7 @@ Comment stockez-vous les chapitres et choix?
 
 ### 6.1 Lien vers les maquettes Figma
 
-*Lien:* [Insérez votre lien Figma]
+*Lien:* [https://www.figma.com/design/r6R9Jj0nzHcH17XgecL28C/Moodboard---Projet-Final-Web?node-id=0-1&t=juwRv1v8ZNchIAYQ-1]
 
 ### 6.2 Écrans principaux à maquetter
 
