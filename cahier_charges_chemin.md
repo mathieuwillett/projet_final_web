@@ -173,26 +173,19 @@ Insérez ici 3-5 images d'inspiration (ou liens):
 ### 3.2 Palette de couleurs
 
 *Couleurs par ambiance/chapitre:*
+<img width="1085" height="378" alt="image" src="https://github.com/user-attachments/assets/1fcbf419-3969-47b1-8d54-556344290f94" />
 
-- *Chapitres introduction:* [#XXXXXX] - Tons neutres
-- *Chapitres tension:* [#XXXXXX] - Tons sombres/dramatiques
-- *Chapitres espoir:* [#XXXXXX] - Tons clairs/lumineux
-- *Chapitres danger:* [#XXXXXX] - Rouge/orange
 
 *Couleurs système:*
 
-- Primaire (actions principales): [#XXXXXX]
-- Secondaire (choix): [#XXXXXX]
-- Succès: [#10B981]
-- Danger: [#EF4444]
-- Neutre: [#6B7280]
+<img width="875" height="185" alt="image" src="https://github.com/user-attachments/assets/60662cb4-cfa3-488a-8e18-bb862bb23fe9" />
 
 ### 3.3 Typographie
 
-- *Titres narratifs:* [Nom de la police] - [Lien Google Fonts]
-- *Texte de narration:* [Nom de la police] - Lisible, serif ou sans-serif
-- *Dialogues:* [Nom de la police] - Différencié du texte narratif
-- *Boutons de choix:* [Nom de la police] - Bold, impactant
+- *Titres narratifs:* : [Iceberg] - [[Iceberg - Google Fonts](https://fonts.google.com/specimen/Iceberg)]
+- *Texte de narration:* [Pixelify Sans] - [[Pixelify Sans - Google Fonts](https://fonts.google.com/specimen/Pixelify+Sans?query=pixel)]
+- *Dialogues:* [Pixelify Sans] - [[Pixelify Sans - Google Fonts](https://fonts.google.com/specimen/Pixelify+Sans?query=pixel)]
+- *Boutons de choix:* [Iceberg] - [[Iceberg - Google Fonts](https://fonts.google.com/specimen/Iceberg)]
 
 ### 3.4 Style visuel
 
