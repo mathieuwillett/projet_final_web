@@ -202,7 +202,8 @@ Insérez ici 3-5 images d'inspiration (ou liens):
 
 Choisissez un ou plusieurs styles:
 
-- [ ] Cinématique (film noir, thriller)
+- [x] Cinématique (film, thriller)
+- [x] Rétro
 - [ ] Illustratif (dessins, concept art)
 - [ ] Minimaliste (focus sur le texte)
 - [ ] Immersif (photos, ambiances réalistes)
