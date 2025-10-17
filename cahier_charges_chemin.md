@@ -6,13 +6,12 @@
 *Nom de l'équipe:* [Nom de votre équipe]  
 *Membres:*
 
-- [Nom] - Chef de projet / [Rôle principal]
-- [Nom] - [Rôle principal]
-- [Nom] - [Rôle principal]
-- [Nom] - [Rôle principal] (si équipe de 4)
+- [Justin Montpetit] - Chef de projet / [Architecture]
+- [Ahmed Kaissoumi] - [Responsable dsign et animations]
+- [Mathieu Willett] - [Responsable données et système]
 
-*Date de début:* [Date]  
-*Date de livraison finale:* [Date]  
+*Date de début:* [17 octobre]  
+*Date de livraison finale:* [10 décembre]  
 *Version du document:* 1.0
 
 
