@@ -514,11 +514,7 @@ Comment stockez-vous les chapitres et choix?
 
 7. *US-07:* En tant que lecteur, je veux consulter l'historique de mes choix afin de me rappeler mes décisions passées.
 
-8. *US-08:* En tant que joueur, je veux collecter des objets/débloquer des stats afin de me sentir progresser dans l'aventure.
-
-9. *US-09:* En tant qu'utilisateur, je veux contrôler le volume sonore afin d'adapter l'expérience à mon environnement.
-
-10. [Ajoutez vos user stories]
+8. *US-08:* En tant qu'utilisateur, je veux contrôler le volume sonore afin d'adapter l'expérience à mon environnement.
 
 
 ## 📊 6. Maquettes et Wireframes
@@ -552,10 +548,10 @@ Comment stockez-vous les chapitres et choix?
 
 | Membre | Rôle principal | Responsabilités |
 |--------|----------------|-----------------|
-| [Nom] | Chef de projet + Architecture Vue | Coordination, Vue Router, stores Pinia, structure de l'histoire |
-| [Nom] | Design + Animations | CSS, design visuel, animations GSAP, transitions |
-| [Nom] | Contenu + Narration | Écriture des chapitres, création de l'arbre narratif, dialogues |
-| [Nom] | Données + Système | Gestion des sauvegardes, LocalStorage, logique de choix, stats |
+| [Justin Montpetit] | Chef de projet + Architecture Vue | Coordination, Vue Router, stores Pinia, structure de l'histoire |
+| [Ahmed Kaissoumi] | Design + Animations | CSS, design visuel, animations GSAP, transitions |
+| [Justin Montpetit] | Contenu + Narration | Écriture des chapitres, création de l'arbre narratif, dialogues |
+| [Mathieu Willett] | Données + Système | Gestion des sauvegardes, LocalStorage, logique de choix, stats |
 
 *Note:* Tous participent au développement, mais chacun a sa spécialité.
 
@@ -571,7 +567,7 @@ Comment stockez-vous les chapitres et choix?
 
 ### 7.3 Outils de collaboration
 
-- *Git/GitHub:* [Lien du repo]
+- *Git/GitHub:* [https://github.com/mathieuwillett/projet_final_web/tree/main]
 - *Gestion de projet:* [Trello / Word / GitHub Projects]
 - *Communication:* [Teams]
 - *Design:* [Figma]
