@@ -2,8 +2,8 @@
 
 ## 📌 Informations du Projet
 
-*Nom du projet:* [Nom de votre musée]  
-*Nom de l'équipe:* [Nom de votre équipe]  
+*Nom du projet:* [Les héros de l'éclipse]  
+*Nom de l'équipe:* [La super équipe]  
 *Membres:*
 
 - [Justin Montpetit] - Chef de projet / [Architecture]
