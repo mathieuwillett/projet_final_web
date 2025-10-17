@@ -37,18 +37,18 @@ Décrivez en 2-3 paragraphes le concept de votre histoire interactive:
 
 ### 1.2 Public cible
 
-- *Âge:* [ex: 16-35 ans]
-- *Profil:* [ex: Amateurs de récits interactifs, fans de sci-fi]
-- *Niveau technique:* [ex: Utilisateurs grand public]
-- *Temps de lecture estimé:* [ex: 20-45 minutes pour une partie complète]
+- *Âge:* [16 à 30 ans]
+- *Profil:* [Amateurs de récits de style super-héros et de farfelu]
+- *Niveau technique:* [Utilisateurs grand public]
+- *Temps de lecture estimé:* [10-15 minutes]
 
 ### 1.3 Objectifs du projet
 
-- [ ] Créer une expérience narrative immersive et émotionnelle
-- [ ] Développer un système de choix avec conséquences réelles
+- [x] Créer une expérience narrative immersive et émotionnelle
+- [x] Développer un système de choix avec conséquences réelles
 - [ ] Implémenter un système de sauvegarde de progression
-- [ ] Démontrer la maîtrise de Vue.js, GSAP et Pinia
-- [ ] Créer une interface accessible et responsive
+- [x] Démontrer la maîtrise de Vue.js, GSAP et Pinia
+- [x] Créer une interface accessible et responsive
 - [ ] [Autre objectif spécifique]
 
 
@@ -124,9 +124,9 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 
 | Nom | Rôle | Description | Apparaît dans |
 |-----|------|-------------|---------------|
-| [Ex: Dr. Sarah Chen] | Protagoniste | Scientifique brillante mais impulsive | Tous les chapitres |
-| [Ex: Marcus] | Mentor | Professeur sage et prudent | Chapitres 1, 2, 5 |
-| [Ex: L'IA CHRONOS] | Antagoniste | Intelligence artificielle de la machine | Chapitres 3+, certaines fins |
+| [Ahmed] | Protagoniste | Scientifique brillante mais impulsive | Tous les chapitres |
+| [Justin] | Mentor | Professeur sage et prudent | Chapitres 1, 2, 5 |
+| [Mathieu] | Antagoniste | Intelligence artificielle de la machine | Chapitres 3+, certaines fins |
 | | | | |
 | | | | |
 
@@ -140,7 +140,7 @@ Comment les choix influencent l'histoire?
 - [ ] *Stats du personnage* (courage, intelligence, empathie)
 - [ ] *Inventaire d'objets* (collecte d'items)
 - [ ] *Relations avec personnages* (affinités)
-- [ ] *Flags de choix* (choix X débloque scène Y)
+- [x] *Flags de choix* (choix X débloque scène Y)
 - [ ] *Combinaison de plusieurs systèmes*
 
 *Exemple de tracking:*
@@ -408,53 +408,53 @@ Comment stockez-vous les chapitres et choix?
 
 *Obligatoires pour la livraison:*
 
-- [ ] *F1 - Lecture de l'histoire*
+- [x] *F1 - Lecture de l'histoire*
   - Affichage du texte narratif chapitre par chapitre
   - Navigation linéaire dans l'intro
   - Transitions fluides entre chapitres
 
-- [ ] *F2 - Système de choix*
+- [x] *F2 - Système de choix*
   - Affichage de 2-4 choix par chapitre décisionnel
   - Sélection d'un choix
   - Redirection vers le chapitre suivant approprié
   - Minimum 8 chapitres avec au moins 3 fins
 
-- [ ] *F3 - Tracking des conséquences*
+- [x] *F3 - Tracking des conséquences*
   - État du joueur (karma/stats/flags)
   - Mise à jour après chaque choix
   - Conditions pour débloquer fins
 
-- [ ] *F4 - Système de sauvegarde*
+- [x] *F4 - Système de sauvegarde*
   - 3 slots de sauvegarde
   - Sauvegarde manuelle
   - Chargement d'une sauvegarde
   - Affichage des infos de sauvegarde (date, progression)
 
-- [ ] *F5 - Historique des choix*
+- [x] *F5 - Historique des choix*
   - Garder trace des décisions prises
   - Affichage dans un menu (optionnel mais recommandé)
 
-- [ ] *F6 - Écrans de fin*
+- [x] *F6 - Écrans de fin*
   - Affichage de la fin atteinte
   - Récapitulatif des choix faits
   - Option de recommencer ou charger
 
-- [ ] *F7 - Interface responsive*
+- [x] *F7 - Interface responsive*
   - Mobile (320px+)
   - Tablette (768px+)
   - Desktop (1024px+)
 
-- [ ] *F8 - Animations de texte*
+- [x] *F8 - Animations de texte*
   - Apparition progressive du texte (optionnel: effet typewriter)
   - Transitions entre chapitres avec GSAP
 
-- [ ] *F9 - Accessibilité*
+- [x] *F9 - Accessibilité*
   - Navigation au clavier
   - ARIA labels
   - Contraste WCAG AA
   - Option skip animations
 
-- [ ] *F10 - Médias intégrés*
+- [x] *F10 - Médias intégrés*
   - Images de fond par chapitre
   - Musique d'ambiance (avec contrôle volume)
 
@@ -468,27 +468,27 @@ Comment stockez-vous les chapitres et choix?
   - Affichage graphique des items
   - Description des objets au survol
 
-- [ ] *B3 - Stats visuelles*
+- [x] *B3 - Stats visuelles*
   - Barres de progression pour stats
   - Graphique radar des caractéristiques
 
-- [ ] *B4 - Arbre de choix visualisé*
+- [x] *B4 - Arbre de choix visualisé*
   - Carte interactive des chemins possibles
   - Indication des chapitres visités/non-visités
 
-- [ ] *B5 - Galerie des fins*
+- [x] *B5 - Galerie des fins*
   - Collection de toutes les fins débloquées
   - Pourcentage de complétion
 
-- [ ] *B6 - Mode rejouabilité*
+- [x] *B6 - Mode rejouabilité*
   - Fast-forward pour texte déjà lu
   - Skip to choice (sauter au prochain choix)
 
-- [ ] *B7 - Effets sonores contextuels*
+- [x] *B7 - Effets sonores contextuels*
   - Sons lors de choix importants
   - Ambiances sonores par scène
 
-- [ ] *B8 - Animations avancées GSAP*
+- [x] *B8 - Animations avancées GSAP*
   - Parallax sur les backgrounds
   - Animations de transition complexes
 
