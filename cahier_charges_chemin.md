@@ -122,19 +122,20 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 
 ### 2.5 Personnages principaux
 
-| Nom | Rôle | Description | pouvoirs | Apparaît dans |
-|-----|------|-------------|---------------|
-| 1 | [Ahmed] | Protagoniste | Timide, rêveur, humble. | "Aucuns pouvoirs", jeune homme passionné de mangas, potentiel latent. | presque tout les chapitres |
-| 2 | [Ahmed (Version Éclipse)] | Protagoniste | Farouche, loyal, protecteur. | entitée cosmique vivante, vitesse supersonique, invocation du Croissant Astral, maîtrise des récits shōnen et de la foi cosmique. | presque tout les chapitres |
-| 3 | [Ahmed (Version Ultra)] | Protagoniste | Farouche, loyal, protecteur. | Manipulation physique des forces astrales, aura intimidante, force terrifiante. | presque tout les chapitres |
-| 4 | [Justin (Capitaine Québec)] | Protagoniste | Charismatique, combatif, parfois distrait par les débats politiques. | Contrôle de l’hydro-électricité, résilience patriotique, talent stratégique basé sur la conviction. | presque tous les chapitres |
-| 5 | [Mathieu (Le Nain Ours)] | Protagoniste | Farouche, loyal, protecteur. | Transformation en ours puissant et agile, force brute, endurance surhumaine, polyvalence. | presque tout les chapitres |
-| 6 | [Mikael (Casquette Man)] | Protagoniste | Décontracté mais concentré. | Aucuns pouvoirs, Vitesse et agilité exceptionnelles, tacticien imprévisible, équipé de technologies avancées. | Tous les chapitres |
-| 7 | [Rafael (Le Cyborg Handicapé)] | Protagoniste | Résilient, déterminé. | Corps cybernétique avec force et endurance accrues, capacités de réparation instantanée, armes intégrées. | presque tous les chapitres |
-| 8 | [Alexandre (Le Magicien)] | Protagoniste | Farouche, loyal, protecteur. | Transformation en ours puissant et agile, force brute, endurance surhumaine, polyvalence. | presque tout les chapitres |
-| 9 | [Elie (Le Modélisateur Mental)] | Protagoniste | Créatif, analytique, innovant. | Transforme ses pensées en modèles 3D tangibles, capable de créer objets et environnements instantanément. | presque tous les chapitres |
-| 10 | [Emeryk (L’Homme-Loup)] | Protagoniste | Sauvage, brillant, loyal. | Force, agilité lupine, vitesse de codage fulgurante, sens aiguisés, instinct sauvage. | presque tout les chapitres |
-| 11 | [Hazan (Le Dieu des Dieux)] | Antagoniste | Calme, sûr de lui, mystérieux. | Omnipotence cosmique, connaissance absolue, manipulation totale de la réalité, immunité aux faiblesses classiques. | tout les chapitres |
+| #  | Nom                          | Rôle        | Description                         | Pouvoirs                                                                                                       | Apparaît dans                |
+|----|-----------------------------|-------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------|
+| 1  | Ahmed                       | Protagoniste | Timide, rêveur, humble.              | Aucuns pouvoirs, jeune homme passionné de mangas, potentiel latent.                                           | Presque tous les chapitres  |
+| 2  | Ahmed (Version Éclipse)    | Protagoniste | Farouche, loyal, protecteur.         | Entité cosmique vivante, vitesse supersonique, invocation du Croissant Astral, maîtrise des récits shōnen.   | Presque tous les chapitres  |
+| 3  | Ahmed (Version Ultra)      | Protagoniste | Farouche, loyal, protecteur.         | Manipulation des forces astrales, aura intimidante, force terrifiante.                                       | Presque tous les chapitres  |
+| 4  | Justin (Capitaine Québec)  | Protagoniste | Charismatique, combatif, distrait.   | Contrôle de l’hydroélectricité, résilience patriotique, talent stratégique basé sur la conviction.            | Presque tous les chapitres  |
+| 5  | Mathieu (Le Nain Ours)     | Protagoniste | Farouche, loyal, protecteur.         | Transformation en ours, force brute, endurance surhumaine, polyvalence.                                       | Presque tous les chapitres  |
+| 6  | Mikael (Casquette Man)     | Protagoniste | Décontracté mais concentré.          | Aucuns pouvoirs, vitesse/agilité exceptionnelles, tacticien imprévisible, tech avancée.                       | Tous les chapitres          |
+| 7  | Rafael (Le Cyborg Handicapé) | Protagoniste | Résilient, déterminé.               | Corps cybernétique, force accrue, réparation instantanée, armes intégrées.                                   | Presque tous les chapitres  |
+| 8  | Alexandre (Le Magicien)    | Protagoniste | Farouche, loyal, protecteur.         | Transformation en ours, force brute, endurance surhumaine, polyvalence.                                       | Presque tous les chapitres  |
+| 9  | Elie (Le Modélisateur Mental) | Protagoniste | Créatif, analytique, innovant.     | Modélisation mentale 3D tangible, création d’objets et environnements.                                       | Presque tous les chapitres  |
+| 10 | Emeryk (L’Homme-Loup)      | Protagoniste | Sauvage, brillant, loyal.            | Force et agilité lupine, vitesse de codage, sens aiguisés, instinct sauvage.                                  | Presque tous les chapitres  |
+| 11 | Hazan (Le Dieu des Dieux)  | Antagoniste  | Calme, sûr de lui, mystérieux.       | Omnipotence, connaissance absolue, manipulation de la réalité, immunité aux faiblesses.                        | Tous les chapitres          |
+
 
 ### 2.6 Système de conséquences
 
