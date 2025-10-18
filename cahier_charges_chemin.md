@@ -118,7 +118,8 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 | 3 | [Fin trahison] | Ahmed a trahis l'équipe | Mauvaise |
 | 4 | [Fin heureuse] | Avoir vaincu Hazan | Bonne |
 | 5 | [Fin triste] | certains héros ont péris | Bonne/Mauvaise |
-| 6 | | | |
+| 6 | [Fin lâche] | Les héros ont abandonnés | Mauvaise |
+| 7 | | | |
 
 ### 2.5 Personnages principaux
 
