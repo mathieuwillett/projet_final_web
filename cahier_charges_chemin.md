@@ -113,10 +113,10 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 
 | # | Nom de la fin | Condition pour l'atteindre | Type (bonne/mauvaise/neutre) |
 |---|--------------|---------------------------|------------------------------|
-| 1 | [Fin Héroïque] | Avoir fait 3+ choix altruistes | Bonne |
-| 2 | [Fin Sombre] | Avoir fait 3+ choix égoïstes | Mauvaise |
-| 3 | [Fin Paradoxale] | Avoir créé un paradoxe temporel | Neutre/Spéciale |
-| 4 | | | |
+| 1 | [Fin triste] | Hazan l'emporte | Mauvaise |
+| 2 | [Fin maléfique] | Alex a fini corrompu | Mauvaise |
+| 3 | [Fin trahison] | Ahmed a trahis l'équipe | Mauvaise |
+| 4 | [Fin heureuse] | Avoir vaincu Hazan | Bonne |
 | 5 | | | |
 | 6 | | | |
 
@@ -129,7 +129,7 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 | 3  | Ahmed (Version Ultra)      | Protagoniste | Farouche, loyal, protecteur.         | Manipulation des forces astrales, aura intimidante, force terrifiante.                                       | Presque tous les chapitres  |
 | 4  | Justin (Capitaine Québec)  | Protagoniste | Charismatique, combatif, distrait.   | Contrôle de l’hydroélectricité, résilience patriotique, talent stratégique basé sur la conviction.            | Presque tous les chapitres  |
 | 5  | Mathieu (Le Nain Ours)     | Protagoniste | Farouche, loyal, protecteur.         | Transformation en ours, force brute, endurance surhumaine, polyvalence.                                       | Presque tous les chapitres  |
-| 6  | Mikael (Casquette Man)     | Protagoniste | Décontracté mais concentré.          | Aucuns pouvoirs, vitesse/agilité exceptionnelles, tacticien imprévisible, tech avancée.                       | Tous les chapitres          |
+| 6  | Mikael (Casquette Man)     | Protagoniste | Décontracté mais concentré.          | Aucuns pouvoirs, vitesse/agilité exceptionnelles, tacticien imprévisible, tech avancée.                       | Presque tous les chapitres  |
 | 7  | Rafael (Le Cyborg Handicapé) | Protagoniste | Résilient, déterminé.               | Corps cybernétique, force accrue, réparation instantanée, armes intégrées.                                   | Presque tous les chapitres  |
 | 8  | Alexandre (Le Magicien)    | Protagoniste | Farouche, loyal, protecteur.         | Transformation en ours, force brute, endurance surhumaine, polyvalence.                                       | Presque tous les chapitres  |
 | 9  | Elie (Le Modélisateur Mental) | Protagoniste | Créatif, analytique, innovant.     | Modélisation mentale 3D tangible, création d’objets et environnements.                                       | Presque tous les chapitres  |
