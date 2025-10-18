@@ -7,7 +7,7 @@
 *Membres:*
 
 - [Justin Montpetit] - Chef de projet / [Architecture]
-- [Ahmed Kaissoumi] - [Responsable dsign et animations]
+- [Ahmed Kaissoumi] - [Responsable design et animations]
 - [Mathieu Willett] - [Responsable données et système]
 
 *Date de début:* [17 octobre]  
@@ -26,10 +26,10 @@
 
 Décrivez en 2-3 paragraphes le concept de votre histoire interactive:
 
-- Quel est le genre narratif? (fantastique, sci-fi, mystère, aventure, etc.)
-- Quelle est l'histoire principale?
-- Qui est le personnage principal?
-- Quel est le mécanisme de choix? (décisions morales, énigmes, actions, etc.)
+- Aventure narrative de science-fiction
+- Un homme fait un grabuge dans la ville, les héros sont appelés pour l'arrêter
+- Les personnages sont des héros nommés les "héros de l'éclipse"
+- Méchanisme de choix par moral & actions
 
 *Exemple (interdit de prendre l'exemple comme histoire pour votre projet):*
 > "Les Échos du Temps" est une histoire interactive de science-fiction où le joueur incarne un scientifique qui découvre une machine à voyager dans le temps. Chaque décision modifie le cours de l'histoire et peut créer des paradoxes temporels. L'utilisateur doit faire des choix difficiles qui influencent non seulement sa propre destinée, mais aussi celle de l'humanité. Le système de branches permet 6 fins différentes selon les décisions prises.
@@ -66,9 +66,10 @@ Dessinez ou décrivez l'arbre de décisions de votre histoire:
 
 *Structure globale:*
 
-- *Acte 1:* Introduction (1-2 chapitres linéaires)
-- *Acte 2:* Développement avec choix (4-6 chapitres avec branches)
-- *Acte 3:* Climax et résolution (2-3 fins différentes)
+- *Acte 1:* Introduction aux personnages & choix d'équipe. (1-2 chapitres linéaires)
+- *Acte 2:* Développement avec choix (2-3 chapitres avec branches)
+- *Acte 3:* Développement avec choix (4-6 chapitres avec branches)
+- *Acte 4:* Résolution (4-6 fins différentes)
 
 *Exemple de structure:*
 
@@ -121,13 +122,19 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 
 ### 2.5 Personnages principaux
 
-| Nom | Rôle | Description | Apparaît dans |
+| Nom | Rôle | Description | pouvoirs | Apparaît dans |
 |-----|------|-------------|---------------|
-| [Ahmed] | Protagoniste | Scientifique brillante mais impulsif | Tous les chapitres |
-| [Justin] | Mentor | Professeur sage et prudent | Chapitres 1, 2, 5 |
-| [Mathieu] | Antagoniste | Intelligence artificielle de la machine | Chapitres 3+, certaines fins |
-| | | | |
-| | | | |
+| [Ahmed] | Protagoniste | Timide, rêveur, humble. | "Aucuns pouvoirs", jeune homme passionné de mangas, potentiel latent. | presque tout les chapitres |
+| [Ahmed (Version Éclipse)] | Protagoniste | Farouche, loyal, protecteur. | entitée cosmique vivante, vitesse supersonique, invocation du Croissant Astral, maîtrise des récits shōnen et de la foi cosmique. | presque tout les chapitres |
+| [Ahmed (Version Ultra)] | Protagoniste | Farouche, loyal, protecteur. | Manipulation physique des forces astrales, aura intimidante, force terrifiante. | presque tout les chapitres |
+| [Justin (Capitaine Québec)] | Protagoniste | Charismatique, combatif, parfois distrait par les débats politiques. | Contrôle de l’hydro-électricité, résilience patriotique, talent stratégique basé sur la conviction. | presque tous les chapitres |
+| [Mathieu (Le Nain Ours)] | Protagoniste | Farouche, loyal, protecteur. | Transformation en ours puissant et agile, force brute, endurance surhumaine, polyvalence. | presque tout les chapitres |
+| [Mikael (Casquette Man)] | Protagoniste | Décontracté mais concentré. | Aucuns pouvoirs, Vitesse et agilité exceptionnelles, tacticien imprévisible, équipé de technologies avancées. | Tous les chapitres |
+| [Rafael (Le Cyborg Handicapé)] | Protagoniste | Résilient, déterminé. | Corps cybernétique avec force et endurance accrues, capacités de réparation instantanée, armes intégrées. | presque tous les chapitres |
+| [Alexandre (Le Magicien)] | Protagoniste | Farouche, loyal, protecteur. | Transformation en ours puissant et agile, force brute, endurance surhumaine, polyvalence. | presque tout les chapitres |
+| [Elie (Le Modélisateur Mental)] | Protagoniste | Créatif, analytique, innovant. | Transforme ses pensées en modèles 3D tangibles, capable de créer objets et environnements instantanément. | presque tous les chapitres |
+| [Emeryk (L’Homme-Loup)] | Protagoniste | Sauvage, brillant, loyal. | Force, agilité lupine, vitesse de codage fulgurante, sens aiguisés, instinct sauvage. | presque tout les chapitres |
+| [Hazan (Le Dieu des Dieux)] | Antagoniste | Calme, sûr de lui, mystérieux. | Omnipotence cosmique, connaissance absolue, manipulation totale de la réalité, immunité aux faiblesses classiques. | tout les chapitres |
 
 ### 2.6 Système de conséquences
 
