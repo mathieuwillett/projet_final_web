@@ -221,12 +221,22 @@ Choisissez un ou plusieurs styles:
 
 ### 3.5 Éléments visuels par chapitre
 
+### 3.5 Éléments visuels par chapitre
+
+### 3.5 Éléments visuels par chapitre
+
 | Chapitre | Image de fond | Effets visuels | Sons/musique |
 |----------|---------------|----------------|--------------|
-| 1 | [Description ou lien] | Fade in progressif | Musique douce, intro |
-| 2 | | | |
-| 3 | | | |
-| ... | | | |
+| 1 - Alerte | [Description ou lien] | Fade in sur la scène | Musique douce, intro |
+| 2 - Rencontre | [Description ou lien] | Animation feu, opacité silhouette volante | Sons de feu et vent |
+| 3 - Contact | [Description ou lien] | Flash bleu, effet gel simple | Sons magiques, crépitement |
+| 4 - Urgence | [Description ou lien] | Glow lumineux, shake léger | Musique épique, voix grave |
+| 5 - Rassemblement | [Description ou lien] | Transition rapide, icônes d’armes | Tambours, montée en tension |
+| 6 - Combat | [Description ou lien] | Animation d’impact, ralentis | Musique intense, bruitages de combat |
+| 7 - Dénouement | [Description ou lien] | Fondu enchaîné, zoom sur visages | Musique dramatique, silence, dialogues |
+| 8 - Fin | [Description ou lien] | Transition ciel, fondu final | Musique triste ou joyeuse selon fin |
+
+
 
 
 ## 💻 4. Spécifications Techniques
