@@ -193,7 +193,8 @@ Insérez ici 3-5 images d'inspiration (ou liens):
 ### 3.2 Palette de couleurs
 
 *Couleurs par ambiance/chapitre:*
-<img width="1085" height="378" alt="image" src="https://github.com/user-attachments/assets/1fcbf419-3969-47b1-8d54-556344290f94" />
+<img width="808" height="468" alt="image" src="https://github.com/user-attachments/assets/2ef03e75-27ce-42ff-8fd5-463a2beeb6cd" />
+
 
 
 *Couleurs système:*
