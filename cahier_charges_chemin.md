@@ -221,12 +221,6 @@ Choisissez un ou plusieurs styles:
 
 ### 3.5 Éléments visuels par chapitre
 
-### 3.5 Éléments visuels par chapitre
-
-### 3.5 Éléments visuels par chapitre
-
-### 3.5 Éléments visuels par chapitre
-
 | # | Titre          | Effets visuels                                 | Ambiance sonore                          | Type de musique associé         |
 |---|----------------|------------------------------------------------|------------------------------------------|---------------------------------|
 | 1 | Alerte         | Fade in sur la scène                           | Musique douce, intro                     | Ambient cinématographique       |
