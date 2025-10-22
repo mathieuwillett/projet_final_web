@@ -18,7 +18,7 @@
 ## 🎯 1. Présentation du Projet
 
 ### 1.1 Concept général
-
+une histoire narrative dans laquelle chaque choix à une incidence réelle sur l'histoire et changera le futur des héros. Dans un univers de science-fiction avec des super-héros
 
 
 Décrivez en 2-3 paragraphes le concept de votre histoire interactive:
@@ -27,9 +27,6 @@ Décrivez en 2-3 paragraphes le concept de votre histoire interactive:
 - Un homme fait un grabuge dans la ville, les héros sont appelés pour l'arrêter
 - Les personnages sont des héros nommés les "héros de l'éclipse"
 - Méchanisme de choix par moral & actions
-
-*Exemple (interdit de prendre l'exemple comme histoire pour votre projet):*
-> "Les Échos du Temps" est une histoire interactive de science-fiction où le joueur incarne un scientifique qui découvre une machine à voyager dans le temps. Chaque décision modifie le cours de l'histoire et peut créer des paradoxes temporels. L'utilisateur doit faire des choix difficiles qui influencent non seulement sa propre destinée, mais aussi celle de l'humanité. Le système de branches permet 6 fins différentes selon les décisions prises.
 
 
 ### 1.2 Public cible
@@ -55,7 +52,9 @@ Décrivez en 2-3 paragraphes le concept de votre histoire interactive:
 
 Racontez votre histoire en 1-2 paragraphes (sans spoiler les fins):
 
-[Écrivez votre synopsis ici]
+
+[un appel est reçu par les héros de l'éclipse, indiquant qu'un mystérieux homme fait des dommages à la ville. On envoit alors un duo de héros voir ce qui se passe.
+S'en suit un combat épique et difficile, ne pouvant mener qu'à un seul vainqueur.]
 
 ### 2.2 Arbre narratif
 
@@ -63,44 +62,23 @@ Dessinez ou décrivez l'arbre de décisions de votre histoire:
 
 *Structure globale:*
 
-- *Acte 1:* Introduction aux personnages & choix d'équipe. (1-2 chapitres linéaires)
-- *Acte 2:* Développement avec choix (2-3 chapitres avec branches)
-- *Acte 3:* Développement avec choix (4-6 chapitres avec branches)
-- *Acte 4:* Résolution (4-6 fins différentes)
+<img width="7342" height="3897" alt="Lore" src="https://github.com/user-attachments/assets/f9a0f4f2-95a1-4e71-984e-3b8d3eac80a6" />
 
-*Exemple de structure:*
-
-```
-Chapitre 1 (Intro) → Linéaire
-    ↓
-Chapitre 2 (Premier choix)
-    ↓                    ↓
-Branche A            Branche B
-    ↓                    ↓
-Chapitre 3A          Chapitre 3B
-    ↓                    ↓
-Choix majeur         Choix majeur
-    ↓       ↓           ↓       ↓
-Fin 1    Fin 2        Fin 3    Fin 4
-```
 
 ### 2.3 Liste des chapitres/scènes
 
 Minimum 8 niveaux (chapitres/scènes). Listez-les avec leurs informations:
 
-<small>(les noms des chapitres énoncés ici ne sont que des exemples)</small>
-
 | # | Nom du chapitre | Type | Description courte | Choix proposés | Conséquences |
 |---|----------------|------|-------------------|----------------|--------------|
-| 1 | [Le Réveil] | Linéaire | Introduction du personnage et du contexte | Aucun (intro) | N/A |
-| 2 | [La Découverte] | Choix | Découverte de la machine temporelle | 2 choix: "Activer" ou "Rapporter" | Branche A ou B |
-| 3A | [Premier Voyage] | Choix | Voyage dans le passé | 3 choix d'époque | Impact sur suite |
-| 3B | [L' Enquête] | Linéaire | Investigation scientifique | Aucun | Progression histoire |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
+| 1 | [Alerte] | Linéaire | Introduction aux personnages et au contexte | choisir équipe | N/A |
+| 2 | [Rencontre] | Choix | rencontre avec l'homme | 2 choix (variés) | Branche 1 ou 2 |
+| 3 | [Contact] | Choix | début des affrontements | 2 choix (variés) | Branche 1 ou 2 |
+| 4 | [Urgence] | Choix | sentiment d'urgence d'agir | 2 choix (variés) | Branche 1 ou 2 |
+| 5 | [Rassemblement] | Choix | Rassemblement de l'équipe | 2 choix (variés) | Branche 1 ou 2 |
+| 6 | [Combat] | Choix | choix stratégique de combat | 2 choix (variés) | Branche 1 ou 2 |
+| 7 | [Dénouement] | Choix | choix finaux déterminant la fin | 2 choix (variés) | Branche 1 ou 2 |
+| 8 | [Fin] | Linéaire | fin de l'histoire | Aucun | N/A |
 
 ### 2.4 Fins possibles
 
@@ -110,13 +88,16 @@ Listez toutes les fins de votre histoire (minimum 3, idéal 4-6):
 
 | # | Nom de la fin | Condition pour l'atteindre | Type (bonne/mauvaise/neutre) |
 |---|--------------|---------------------------|------------------------------|
-| 1 | [Fin malheureuse] | Hazan l'emporte | Mauvaise |
+| 1 | [Fin malheureuse] | Haxan vient à bout de tout les héros | Mauvaise |
 | 2 | [Fin maléfique] | Alex a fini corrompu | Mauvaise |
-| 3 | [Fin trahison] | Ahmed a trahis l'équipe | Mauvaise |
-| 4 | [Fin heureuse] | Avoir vaincu Hazan | Bonne |
-| 5 | [Fin triste] | certains héros ont péris | Bonne/Mauvaise |
-| 6 | [Fin lâche] | Les héros ont abandonnés | Mauvaise |
-| 7 | | | |
+| 3 | [Fin trahison] | Ahmed a trahis l'équipe pour un univers alternatif | Mauvaise |
+| 4 | [Fin heureuse] | Avoir vaincu Haxan | Bonne |
+| 5 | [Fin lâche] | Les héros ont abandonnés face à Haxan | Mauvaise |
+| 6 | [Fin sacrifice] | Ahmed s'est sacrifié pour sauver la terre | Bonne |
+| 7 | [Fin anti-101] | Colonel Canada (Capitaine QC) rejoint Haxan, détruisant la planète et les humains | Mauvaise |
+| 8 | [Fin alternative 1] | Raf fait sauté la terre et haxan d'un coup | Mauvaise |
+| 9 | [Fin alternative 2] | Haxan tue la race humaine et détruit la terre, mais prend Emeryk comme animal de compagnie | Mauvaise |
+| 10 | [Fin alternative 3] | Alex détruit la terre et les humains dans un vortex magique | Mauvaise |
 
 ### 2.5 Personnages principaux
 
