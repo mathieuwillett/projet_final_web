@@ -1,0 +1,49 @@
+[
+{
+    "id": 1,
+    "name": "Ahmed",
+    "mad": false,
+    "wounded": false,
+    "talking": false,
+    "images": [
+        "./Content/Ahmed/PixelAhmed.png",
+        "./Content/Ahmed/PixelAhmedTalk.png",
+        "./Content/Ahmed/PixelAhmedMad.png",
+        "./Content/Ahmed/PixelAhmedWounded.png",
+        "./Content/Ahmed/PixelAhmedWoundedTalk.png",
+        "./Content/Ahmed/PixelAhmedWoundedMad.png"
+    ]
+},
+
+{
+    "id": 2,
+    "name": "Mikael",
+    "mad": false,
+    "wounded": false,
+    "talking": false,
+    "images": [ 
+        "./Content/Mike/PixelMike.png",
+        "./Content/Mike/PixelMikeTalk.png",
+        "./Content/Mike/PixelMikeMad.png",
+        "./Content/Mike/PixelMikeWounded.png",
+        "./Content/Mike/PixelMikeWoundedTalk.png",
+        "./Content/Mike/PixelMikeWounded.png"
+    ]
+},
+
+{
+    "id": 3,
+    "name": "Capitaine Québec",
+    "mad": false,
+    "wounded": false,
+    "talking": false,
+    "images": [ 
+        "./Content/CapitaineQuebec/PixelCap.png",
+        "./Content/CapitaineQuebec/PixelCapTalk.png",
+        "./Content/CapitaineQuebec/PixelCapMad.png",
+        "./Content/CapitaineQuebec/PixelCapWounded.png",
+        "./Content/CapitaineQuebec/PixelCapWoundedTalk.png",
+        "./Content/CapitaineQuebec/PixelCapWounded.png"
+    ]
+}
+]
